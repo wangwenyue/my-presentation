@@ -4,6 +4,7 @@
 create-react-app my-app
 ```
 --
+^Note: this is a note
 
 # step2
 设置 package.json 如下：
