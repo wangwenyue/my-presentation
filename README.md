@@ -9,4 +9,4 @@ Learn more about [reveal.js (chinese)](https://vxhly.github.io/2016/09/reveal-js
 [reveal.js](https://github.com/hakimel/reveal.js/#online-editor)
 
 
-- [以太坊的经济模型](https://wangwenyue.github.io/ppt/html/ether-eco.html)
+- [Why Casper?](https://wangwenyue.github.io/ppt/html/why-casper.html)
